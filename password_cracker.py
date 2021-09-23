@@ -1,6 +1,4 @@
-#Author Graham Harper
-#identikey grha4536
-#CYBR HW 1
+#Author Graham
 #ran with Python 3.7.5
 # partial idea for waiting animation came from https://stackoverflow.com/questions/7039114/waiting-animation-in-command-prompt-python
 #layout of timing code from https://stackoverflow.com/questions/3620943/measuring-elapsed-time-with-the-time-module/46544199
